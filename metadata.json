@@ -1,0 +1,25 @@
+{
+  "id": "tool-04",
+  "day": 4,
+  "title": "Vector Search Playground",
+  "slug": "vector-search-playground",
+  "repoFolder": "tool-04-vector-search-playground",
+  "description": "A visual engineering playground for understanding embeddings, chunking, cosine similarity, thresholds, search ranking, and retrieval quality underneath RAG systems.",
+  "status": "in-progress",
+  "skills": [
+    "Embeddings",
+    "Vector search",
+    "Chunking strategies",
+    "Cosine similarity",
+    "Retrieval evaluation",
+    "API route design",
+    "Provider abstraction",
+    "Dashboard UI"
+  ],
+  "category": "AI Engineering / Retrieval / RAG Infrastructure",
+  "liveUrl": "",
+  "githubUrl": "",
+  "reelUrl": "",
+  "writeupUrl": "",
+  "lesson": "Retrieval quality is an engineering system problem: chunking, embedding choice, query wording, thresholds, and ranking inspection matter before a chatbot layer is added."
+}
