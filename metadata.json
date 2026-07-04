@@ -18,7 +18,7 @@
   ],
   "category": "AI Engineering / Retrieval / RAG Infrastructure",
   "liveUrl": "",
-  "githubUrl": "",
+  "githubUrl": "https://github.com/hatimshahera/vector-search-playground",
   "reelUrl": "",
   "writeupUrl": "",
   "lesson": "Retrieval quality is an engineering system problem: chunking, embedding choice, query wording, thresholds, and ranking inspection matter before a chatbot layer is added."
