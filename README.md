@@ -2,14 +2,6 @@
 
 A visual engineering playground for understanding embeddings, chunking, and vector retrieval quality underneath RAG systems.
 
-Status: in-progress
-
-Live demo: TBD
-
-Public repo: TBD
-
-Reel/social link: TBD
-
 Tech stack: Next.js, React, TypeScript, server-side API routes, local JSON/in-memory vector store, optional OpenAI embeddings.
 
 ## Problem it solves
@@ -89,3 +81,7 @@ The API key is only used by server-side route handlers and is never exposed to t
 - Add query-term highlighting.
 - Add document upload.
 - Add side-by-side charts for strategy comparison.
+
+## Links
+
+- Repository: https://github.com/hatimshahera/vector-search-playground
