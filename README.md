@@ -85,3 +85,7 @@ The API key is only used by server-side route handlers and is never exposed to t
 ## Links
 
 - Repository: https://github.com/hatimshahera/vector-search-playground
+
+## Support Me
+
+If this helped you, you can support my work here: [buymeacoffee.com/hatimshahera](https://buymeacoffee.com/hatimshahera)
